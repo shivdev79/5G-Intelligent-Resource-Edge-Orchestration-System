@@ -7,7 +7,18 @@
 
 An advanced, end-to-end orchestration framework designed to optimize 5G network resources through artificial intelligence. This system dynamically manages **Network Slicing** and **Edge Offloading** decisions in real-time, ensuring low latency for critical services and high throughput for data-intensive applications.
 
-![Dashboard Mockup](5g_orchestration_dashboard_mockup_1772298757095.png)
+## ✨ Visual Showcase
+
+<div align="center">
+  <img src="5g_orchestration_dashboard_mockup_1772298757095.png" width="900" alt="Main Dashboard Dashboard" />
+  <br />
+  <p><i>The Main AI Orchestration Control Center - Real-time telemetry and resource oversight</i></p>
+  <br />
+  <img src="5g_ui_resource_metrics_charts_1772299030619.png" width="445" alt="Resource Metrics" />
+  <img src="5g_ui_decision_log_detail_1772298935143.png" width="445" alt="Decision Logs" />
+  <br />
+  <p><i>Left: Advanced Network Resource Visualization | Right: Real-time AI Decision engine logs</i></p>
+</div>
 
 ## 🚀 Key Features
 
