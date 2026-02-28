@@ -10,14 +10,13 @@ An advanced, end-to-end orchestration framework designed to optimize 5G network 
 ## ✨ Visual Showcase
 
 <div align="center">
-  <img src="5g_orchestration_dashboard_mockup_1772298757095.png" width="900" alt="Main Dashboard Dashboard" />
+  <img src="screenshot_dashboard.png" width="900" alt="Main Dashboard" />
   <br />
-  <p><i>The Main AI Orchestration Control Center - Real-time telemetry and resource oversight</i></p>
+  <p><i>The Live 5G AI Orchestrator Dashboard - Real-time resource metrics and telemetry</i></p>
   <br />
-  <img src="5g_ui_resource_metrics_charts_1772299030619.png" width="445" alt="Resource Metrics" />
-  <img src="5g_ui_decision_log_detail_1772298935143.png" width="445" alt="Decision Logs" />
+  <img src="screenshot_logs.png" width="900" alt="AI Decision Logs" />
   <br />
-  <p><i>Left: Advanced Network Resource Visualization | Right: Real-time AI Decision engine logs</i></p>
+  <p><i>Automated AI Decision Logs showing per-user task offloading and slice allocation</i></p>
 </div>
 
 ## 🚀 Key Features
