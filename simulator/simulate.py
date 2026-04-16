@@ -2,7 +2,7 @@ import time
 import random
 import requests
 
-API_URL = "http://localhost:8000/api/orchestrate"
+API_URL = "https://fiveg-intelligent-resource-edge.onrender.com/api/orchestrate"
 
 def generate_user():
     user_type = random.choice([0, 1, 2, 3])

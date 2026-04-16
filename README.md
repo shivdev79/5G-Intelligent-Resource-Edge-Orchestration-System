@@ -5,6 +5,8 @@
 [![React Version](https://img.shields.io/badge/react-18-cyan)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688)](https://fastapi.tiangolo.com/)
 
+> **🚀 Live Demo Dashboard**: [https://5-g-intelligent-resource-edge-orche.vercel.app/](https://5-g-intelligent-resource-edge-orche.vercel.app/)
+
 An advanced, end-to-end orchestration framework designed to optimize 5G network resources through artificial intelligence. This system dynamically manages **Network Slicing** and **Edge Offloading** decisions in real-time, ensuring low latency for critical services and high throughput for data-intensive applications.
 
 ## ✨ Visual Showcase
