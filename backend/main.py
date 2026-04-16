@@ -5,7 +5,8 @@ import joblib
 import pandas as pd
 import datetime
 
-app = FastAPI(title="5G AI Orchestrator API")
+
+app = FastAPI()
 
 # Enable CORS for the frontend
 app.add_middleware(
